@@ -1,5 +1,10 @@
 # springboot 缓存demo
 
+## 项目简介
+项目为springboot中有关于spring-data的缓存demo
+其中持久层用的是mybatis框架+tk插件
+
+个人感觉tk插件比generate更加友好（省去了生成出一大堆看着糟心的代码）
 ## 项目中运用缓存
 
 ### 需求
